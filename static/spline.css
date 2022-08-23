@@ -184,6 +184,7 @@ summary {
     --color-white-060: hsla(0, 0%, 100%, 0.6);
     --color-white-080: hsla(0, 0%, 100%, 0.8)
 }
+
 #root > div:nth-child(2) > main > section:nth-child(2) > ul > li:nth-child(6) > div > svg > path{
     stroke: #fff !important;
 }

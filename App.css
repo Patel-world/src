@@ -12,6 +12,11 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+img.vizx {
+  width: 100vw;
+  height: 117vh;
+  object-fit: cover;
+}
 
 .App-header {
   background-color: #282c34;
