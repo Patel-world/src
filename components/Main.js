@@ -10,6 +10,7 @@ import { GiServerRack } from "react-icons/gi";
 const Main = () => {
   return (
     <div>
+      
         <main>
   
         <section id="features" className="content content-container Section_section__3qM1L">
